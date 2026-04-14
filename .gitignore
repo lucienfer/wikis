@@ -1,1 +1,9 @@
-llm-wiki-karpathy.md
+# Ignorer tout par defaut (les projets wiki sont des repos git separes)
+*
+
+# Tracker la config du vault
+!.gitignore
+!.obsidian/
+!.obsidian/**
+!.claude/
+!.claude/**
