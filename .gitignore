@@ -5,5 +5,7 @@
 !.gitignore
 !.obsidian/
 !.obsidian/**
+.obsidian/workspace.json
 !.claude/
 !.claude/**
+!README.md
